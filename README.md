@@ -13,69 +13,18 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
 
-- Me apasiona aprender cosas nuevas
-- Mi computador y yo :)
-- Front-End junior...
-- Aqui estará mi porfolio
-- "No seas vencido de lo malo, sino vence con el bien el mal"
+Siempre seré un eterno aprendiz, pues cada día adquiero nuevos conocimientos y supero mis habilidades anteriores.
 
-<br><br>
+- 🌱 Estoy aprendiendo desarrollo web
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- 📫 Ponte en contacto conmigo **angelefrain1510@gmail.com**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+- ⚡ Un apasionado por las pequeñas cosas de la vida
 
-<p align="center">
-
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-
-</p>
-
-
-<br>
-
------
-<br>
-
+- 🎵 Comida y musica para vivir🔭
 
 ## <b> Contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -106,10 +55,40 @@
 </li>
 	
 </ul>
-</div>
 
+<br><br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<p align="center">
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+### 🎯Objetivos:
+Soy un firme creyente de que la tecnología puede mejorar nuestras vidas y me motiva poder contribuir a ello a través de mi trabajo como programador. Además, me considero una persona creativa y aprecio el proceso de transformar conceptos abstractos en soluciones tangibles y funcionales. 
+  
 <br>
-<br>
-<br>
+
+
+### <🛠> Languages and Tools: </🛠>
+
+<img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />   <img height="45" wigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
+          
+
+<br>   
+    
+### 🌐Idiomas:
+
+- Español: Nativo
+
+- Inglés: A1-A2
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+tu+visita!&hearts;"></a>
+</p>
+
+
+
