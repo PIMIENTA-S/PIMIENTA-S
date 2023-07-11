@@ -33,7 +33,7 @@ Siempre seré un eterno aprendiz, pues cada día adquiero nuevos conocimientos y
 <ul>
 
 <li>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/angell-pimienta-a80b2a24b/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  angell pimienta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -49,7 +49,7 @@ Siempre seré un eterno aprendiz, pues cada día adquiero nuevos conocimientos y
 <br>
 
 <li>
-<a href="angelefrain1510@gmail.com" target="_blank">
+<a href="mailto:angelefrain1510@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  angell pimienta-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
