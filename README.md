@@ -24,8 +24,6 @@ Siempre seré un eterno aprendiz, pues cada día adquiero nuevos conocimientos y
 
 - ⚡ Un apasionado por las pequeñas cosas de la vida
 
-- 🎵 Comida y musica para vivir🔭
-
 ## <b> Contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
