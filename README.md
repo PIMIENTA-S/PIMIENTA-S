@@ -1,4 +1,4 @@
-<h1 align="center"><b>I'm Angell Pimienta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br>👨‍💻A full-time Fron-end developer🚀</b></h1>
+<h1 align="center"><b>I'm Angell Pimienta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
 
 
 <br>
@@ -25,11 +25,6 @@ My goal is to be among the best without forgetting where I **started** from.
 <br>
 
 
-## **Thoughts**
- 🧠 I did not know whether to put this section, although for some strange reason I felt I should do it, I am from Colombia, and I am currently finishing my career, to think that I have everything to know in this new world that few have the privilege of going through fills me with suspense, I am impatient to know how far I can go, I hope it will be a lot! <br>
- <br>
-Sincerely yours: **The junior dev.**
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
@@ -43,13 +38,7 @@ Sincerely yours: **The junior dev.**
 </p>
 <br>
 
-## 🎯Goals
-
-<img src="https://github.com/PIMIENTA-S/Temporizador/assets/80433456/c4d7a888-6b89-447b-ba64-cf0025133a43">
-<br>
-<p align="center">October - 2023</p>
-<p align="center">Until it is achieved</p>
-<br>
+<p align="center">October - 2023 <br>Eternal learner</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+you!&hearts;"></a>
