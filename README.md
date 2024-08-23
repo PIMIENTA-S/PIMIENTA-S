@@ -31,8 +31,8 @@ My goal is to be among the best without forgetting where I **started** from.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,git,github" />
-    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,angular,html,css,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=idea" />
 
   </a>
 </p>
